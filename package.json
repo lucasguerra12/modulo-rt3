@@ -2,12 +2,12 @@
   "name": "modulo-rt3",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "dist/Calculadora.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
-    "type": "git",
+    "types": "dist/Calculadora.d.ts",
     "url": "git+https://github.com/lucasguerra12/modulo-rt3.git"
   },
   "keywords": [],
